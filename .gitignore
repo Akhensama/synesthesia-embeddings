@@ -1,0 +1,9 @@
+# Large regenerable files
+data/gutenberg_corpus.txt
+data/literary_w2v.model
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
